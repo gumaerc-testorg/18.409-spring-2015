@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 47104115-6cc7-bc25-61ea-e5b8d8ed77fc
 resourcetype: Document
 title: Algorithmic Aspects of Machine Learning, Textbook
 uid: 2af5365a-3f0d-24cc-2ee9-f787bbab14e9
