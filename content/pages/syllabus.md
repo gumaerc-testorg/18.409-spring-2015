@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, course topics, and assessment.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_6.046J / 18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/) or equivalent and [_6.041SC Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) or [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014/) or equivalent. You will need a strong background in algorithms, probability and linear algebra.
+[_6.046J / 18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012) or equivalent and [_6.041SC Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) or [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014) or equivalent. You will need a strong background in algorithms, probability and linear algebra.
 
 Description
 -----------
@@ -24,7 +26,7 @@ Modern machine learning systems are often built on top of algorithms that do not
 Textbook
 --------
 
-There is no textbook for this course. Instead, [lecture notes]({{< baseurl >}}/pages/lecture-notes) and [readings]({{< baseurl >}}/pages/readings) are provided.
+There is no textbook for this course. Instead, {{% resource_link 47104115-6cc7-bc25-61ea-e5b8d8ed77fc "lecture notes" %}} and {{% resource_link 69ab796e-382c-86b5-a9ed-f1115712f8a5 "readings" %}} are provided.
 
 Course Outline
 --------------
