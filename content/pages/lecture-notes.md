@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, the course textbook,
+  and additional notes and slides.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 47104115-6cc7-bc25-61ea-e5b8d8ed77fc
 ---
@@ -9,7 +14,7 @@ Algorithmic Aspects of Machine Learning
 Note: These are unpolished, incomplete course notes.  
 Developed for educational use at MIT and for publication through MIT OpenCourseware.
 
-Lectures are based on the monograph, [Algorithmic Aspects of Machine Learning (PDF - 1.6MB)]({{< baseurl >}}/resources/mit18_409s15_bookex). Additional notes and slides are also provided below.
+Lectures are based on the monograph, {{% resource_link 2af5365a-3f0d-24cc-2ee9-f787bbab14e9 "Algorithmic Aspects of Machine Learning (PDF - 1.6MB)" %}}. Additional notes and slides are also provided below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -29,7 +34,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit18_409s15_intro)
+{{% resource_link 15c289f8-a75b-18b4-6c7d-9eb9e5fb8485 "Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,9 +45,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Nonnegative Matrix Factorization (PDF)]({{< baseurl >}}/resources/mit18_409s15_chapp2)
+{{% resource_link dea0e9fe-9d71-5927-6dbf-66e620efb93d "Nonnegative Matrix Factorization (PDF)" %}}
 
-[New Algorithms for Nonnegative Matrix Factorization and Beyond (PDF - 1.8MB)]({{< baseurl >}}/resources/mit18_409s15_lec1a)
+{{% resource_link e3cd96df-f48f-84a3-0425-9ee491fe5742 "New Algorithms for Nonnegative Matrix Factorization and Beyond (PDF - 1.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -55,9 +60,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Tensor Decompositions (PDF)]({{< baseurl >}}/resources/mit18_409s15_chapp3)
+{{% resource_link a2e2a5aa-b261-3116-5bcf-1444af5cf404 "Tensor Decompositions (PDF)" %}}
 
-[Tensor Decompositions and Their Applications (PDF - 1.9MB)]({{< baseurl >}}/resources/mit18_409s15_lec2a)
+{{% resource_link 6a655398-b2a3-ad79-0929-5e7f3b2c13a6 "Tensor Decompositions and Their Applications (PDF - 1.9MB)" %}}
 
 
 {{< tdclose >}}
@@ -70,9 +75,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Sparse Coding (PDF)]({{< baseurl >}}/resources/mit18_409s15_chapp4)
+{{% resource_link cfc9347f-5dc4-4e31-730d-3e2ccadb8194 "Sparse Coding (PDF)" %}}
 
-[Alternating Minimization via Approximate Gradient Descent (PDF - 1.3MB)]({{< baseurl >}}/resources/mit18_409s15_lec3a)
+{{% resource_link 740a3a84-77dc-219a-9727-72b51a6b3c3e "Alternating Minimization via Approximate Gradient Descent (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -85,9 +90,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Learning Mixture Models (PDF)]({{< baseurl >}}/resources/mit18_409s15_chapp6)
+{{% resource_link e339520c-4069-ca5e-785b-29a3c604470e "Learning Mixture Models (PDF)" %}}
 
-[Method of Moments and Systems of Polynomial Equations (PDF - 1.5MB)]({{< baseurl >}}/resources/mit18_409s15_lec4a)
+{{% resource_link 55dd8c08-6928-478c-127d-dc0d831c8cf2 "Method of Moments and Systems of Polynomial Equations (PDF - 1.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +103,7 @@ TOPICS
 23–26
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Inverse Problems (PDF)]({{< baseurl >}}/resources/mit18_409s15_chapp7)
+{{% resource_link a2b2f446-a289-a5a0-27bf-67efaa54b7be "Linear Inverse Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

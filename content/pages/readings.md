@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides reading lists on several course topics, including
+  nonnegative matrix factorization, tensor decompositions, sparse coding, learning
+  mixture models, and linear inverse problems.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 69ab796e-382c-86b5-a9ed-f1115712f8a5
 ---
@@ -17,7 +23,7 @@ Arora, S., R. Ge, et al. "[Learning Topic Models—Going Beyond SVD](http://arxi
 
 Arora, S., R. Ge, et al. "[A Practical Algorithm for Topic Modeling with Provable Guarantees](http://arxiv.org/abs/1212.4777)." _International Conference on Machine Learning_ (2013).
 
-Balcan, M., A. Blum, et al. "[Clustering under Approximation Stability](http://dx.doi.org/10.1145/2450142.2450144)." _Journal of the ACM_ 60, no. 2 (2013). (See [discussion]({{< baseurl >}}/pages/discussion))
+Balcan, M., A. Blum, et al. "[Clustering under Approximation Stability](http://dx.doi.org/10.1145/2450142.2450144)." _Journal of the ACM_ 60, no. 2 (2013). (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
 
 Tensor Decompositions
 ---------------------
@@ -32,7 +38,7 @@ Anandkumar, A., R. Ge, et al. "[A Tensor Spectral Approach to Learning Mixed Mem
 
 Goyal, N., S. Vempala, et al. "[Fourier PCA and Robust Tensor Decomposition](http://arxiv.org/abs/1306.5825)." _Symposium on Theory of Computing_ (2014).
 
-Feige, U., and J. Kilian. "[Heuristics for Semirandom Graph Problems](http://dx.doi.org/10.1006/jcss.2001.1773)." _Journal of Computing and System Sciences_ 63, no. 4 (2001): 639–71. (See [discussion]({{< baseurl >}}/pages/discussion))
+Feige, U., and J. Kilian. "[Heuristics for Semirandom Graph Problems](http://dx.doi.org/10.1006/jcss.2001.1773)." _Journal of Computing and System Sciences_ 63, no. 4 (2001): 639–71. (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
 
 Sparse Coding
 -------------
@@ -45,7 +51,7 @@ Arora, S., R. Ge, et al. "[Simple, Efficient, and Neural Algorithms for Sparse C
 
 Barak, B., J. Kelner, et al. "[Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method](http://arxiv.org/abs/1407.1543)." _Manuscript_ (2014).
 
-Geman, S., and D. Geman. "[Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images](http://ieeexplore.ieee.org/document/4767596/)." _Pattern Analysis and Machine Intelligence_ (1984). (See [discussion]({{< baseurl >}}/pages/discussion))
+Geman, S., and D. Geman. "[Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images](http://ieeexplore.ieee.org/document/4767596/)." _Pattern Analysis and Machine Intelligence_ (1984). (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
 
 Learning Mixture Models
 -----------------------
@@ -56,13 +62,13 @@ Dasgupta, S. "[Learning Mixtures of Gaussians](http://dx.doi.org/10.1109/SFFCS.1
 
 Arora, S., and R. Kannan. "[Learning Mixtures of Separated Nonspherical Gaussians](http://dx.doi.org/10.1214/105051604000000512)." _The Annals of Applied Probability_ 15, no. 1A (2005): 69–92.
 
-Kalai, A., A. Moitra, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Efficiently Learning Mixtures of Two Gaussians." (PDF)](http://people.csail.mit.edu/moitra/docs/2g-full.pdf) _Symposium on Theory of Computing_ (2010).
+Kalai, A., A. Moitra, et al. ["Efficiently Learning Mixtures of Two Gaussians." (PDF)](http://people.csail.mit.edu/moitra/docs/2g-full.pdf) _Symposium on Theory of Computing_ (2010).
 
 Moitra, A., and G. Valiant. "[Settling the Polynomial Learnability of Mixtures of Gaussians](http://arxiv.org/abs/1004.4223)." _Foundations of Computer Science_ (2010).
 
 Belkin, M., and K. Sinha. "[Polynomial Learning of Distribution Families](http://arxiv.org/abs/1004.4864)." _Foundations of Computer Science_ (2010).
 
-Bhaskara, A., M. Charikar, et al. "[Smoothed Analysis of Tensor Decompositions](http://arxiv.org/abs/1311.3651)." _Symposium on Theory of Computing_ (2014). (See [discussion]({{< baseurl >}}/pages/discussion))
+Bhaskara, A., M. Charikar, et al. "[Smoothed Analysis of Tensor Decompositions](http://arxiv.org/abs/1311.3651)." _Symposium on Theory of Computing_ (2014). (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
 
 Linear Inverse Problems
 -----------------------
@@ -77,6 +83,6 @@ Hardt, M. "[Understanding Alternating Minimization for Matrix Completion](http:/
 
 Barak, B., and A. Moitra. "[Tensor Prediction, Rademacher Complexity and Random 3-XOR](http://arxiv.org/abs/1501.06521)." _Manuscript_ (2015).
 
-Berthet, Q., and P. Rigollet. "[Computational Lower Bounds for Sparse PCA](http://arxiv.org/abs/1304.0828)." _Conference on Learning Theory_ (2013). (See [discussion]({{< baseurl >}}/pages/discussion))
+Berthet, Q., and P. Rigollet. "[Computational Lower Bounds for Sparse PCA](http://arxiv.org/abs/1304.0828)." _Conference on Learning Theory_ (2013). (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
 
-Chandrasekaran, V., and M. Jordan. "[Computational and Statistical Tradeoffs via Convex Relaxation](http://dx.doi.org/10.1073/pnas.1302293110)." _Proceedings of the National Academy of Sciences of the United States of America_ 110, no. 13 (2013): E1181–90. (See [discussion]({{< baseurl >}}/pages/discussion))
+Chandrasekaran, V., and M. Jordan. "[Computational and Statistical Tradeoffs via Convex Relaxation](http://dx.doi.org/10.1073/pnas.1302293110)." _Proceedings of the National Academy of Sciences of the United States of America_ 110, no. 13 (2013): E1181–90. (See {{% resource_link c18a0843-3319-98dc-7d4e-ce0494a435c0 "discussion" %}})
