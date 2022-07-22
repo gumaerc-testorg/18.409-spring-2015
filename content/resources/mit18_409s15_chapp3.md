@@ -5,6 +5,7 @@ file: /courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/a2e2a5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Algorithmic Aspects of Machine Learning
 uid: a2e2a5aa-b261-3116-5bcf-1444af5cf404
 ---
 This is a resource file that contains information regarding chapter 3.
-
