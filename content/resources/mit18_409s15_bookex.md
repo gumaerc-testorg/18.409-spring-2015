@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding algorithmic aspects
   of machine learning textbook.
-file: /ol-ocw-studio-app/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/2af5365a3f0d24cc2ee9f787bbab14e9_MIT18_409S15_bookex.pdf
+file: /courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/2af5365a3f0d24cc2ee9f787bbab14e9_MIT18_409S15_bookex.pdf
 file_size: 1669610
 file_type: application/pdf
 learning_resource_types:

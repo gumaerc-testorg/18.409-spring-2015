@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding chapter 7.
-file: /ol-ocw-studio-app/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/a2b2f446a289a5a027bf67efaa54b7be_MIT18_409S15_chapp7.pdf
+file: /courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/a2b2f446a289a5a027bf67efaa54b7be_MIT18_409S15_chapp7.pdf
 file_size: 467729
 file_type: application/pdf
 learning_resource_types:
