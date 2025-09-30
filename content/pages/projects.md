@@ -24,68 +24,68 @@ If you have ideas of your own of what you would like to work on, that is great! 
 
 *   **Spectral Clustering**
     
-    Awasthi, Pranjal, and Sheffet. "[Improved Spectral-norm Bounds for Clustering](http://arxiv.org/abs/1206.3204)." (2012).
+    Awasthi, Pranjal, and Sheffet. "{{% resource_link "c5e75782-7942-4a04-ab10-b94ca5f0fd2e" "Improved Spectral-norm Bounds for Clustering" %}}." (2012).
     
-    Kumar, Amit, and Ravindran Kannan. "[Clustering with Spectral Norm and the k-Means Algorithm](http://arxiv.org/abs/1004.1823)." (2010).
+    Kumar, Amit, and Ravindran Kannan. "{{% resource_link "bb5a5e4f-1666-4b5c-83d1-2984ff6517b6" "Clustering with Spectral Norm and the k-Means Algorithm" %}}." (2010).
     
 
 *   **Approximation Stability**
     
-    Balcan, Marian-Florina, Avrium Blum, et al. ["Approximate Clustering without the Approximation." (PDF)](http://www.cs.cmu.edu/~avrim/Papers/bbg-clustering-2010.pdf) _ACM-SIAM Symposium on Discrete Algorithms_ (2009).
+    Balcan, Marian-Florina, Avrium Blum, et al. {{% resource_link "c4f320c2-2b90-40b3-a519-585c8fd62811" "\"Approximate Clustering without the Approximation.\" (PDF)" %}} _ACM-SIAM Symposium on Discrete Algorithms_ (2009).
     
-    Awasthi, Pranjal, Avrium Blum, et al. "[Stability Yields a PTAS for k-Median and k-Means Clustering](http://dx.doi.org/10.1109/FOCS.2010.36)." _Foundations of Computer Science_ (2010): 309–18.
+    Awasthi, Pranjal, Avrium Blum, et al. "{{% resource_link "648de77c-c071-479f-9adf-d33939a6d4e1" "Stability Yields a PTAS for k-Median and k-Means Clustering" %}}." _Foundations of Computer Science_ (2010): 309–18.
     
 *   **Computational Lower Bounds**
     
-    Berthet, Quentin, and Philippe Rigollet. "[Computational Lower Bounds for Sparse PCA](http://arxiv.org/abs/1304.0828)." (2013).
+    Berthet, Quentin, and Philippe Rigollet. "{{% resource_link "5fdc2a26-b320-4dd5-b115-043033f76f7b" "Computational Lower Bounds for Sparse PCA" %}}." (2013).
     
-    Zhang, Yuchen, Martin Wainwright, et al. "[Lower Bounds on the Performance of Polynomial-time Algorithms for Sparse Linear Regression](http://arxiv.org/abs/1402.1918)." (2014).
+    Zhang, Yuchen, Martin Wainwright, et al. "{{% resource_link "f03b66da-06a8-48d8-813d-cb0291d3b33f" "Lower Bounds on the Performance of Polynomial-time Algorithms for Sparse Linear Regression" %}}." (2014).
     
 *   **New Models**
     
-    Bilu, Yonatan, and Nathan Linial. "[Are Stable Instances Easy?](http://arxiv.org/abs/0906.3162)" (2009).
+    Bilu, Yonatan, and Nathan Linial. "{{% resource_link "3f905b39-1599-45c6-ac75-6be034a1172e" "Are Stable Instances Easy?" %}}" (2009).
     
-    Konstatin, Makarychev, Yury Makarychev, et al. "[Bilu-linial Stable Instances of Max Cut and Minimum Multiway Cut](https://pdfs.semanticscholar.org/837b/9a829e96e4307b6f2d84e36e3880ba426a6d.pdf?_ga=2.168213090.2138474745.1564414830-672817412.1563980296)." _ACM-SIAM Symposium on Discrete Algorithms_ (2014).
+    Konstatin, Makarychev, Yury Makarychev, et al. "{{% resource_link "b66e725f-3c0c-4ea1-9eab-54652b21979b" "Bilu-linial Stable Instances of Max Cut and Minimum Multiway Cut" %}}." _ACM-SIAM Symposium on Discrete Algorithms_ (2014).
     
 *   **More General Mixture Models**
     
-    Dasgupta, Anirban, John Hopcroft, et al. "[On Learning Mixtures of Heavy-tailed Distributions](http://dx.doi.org/10.1109/SFCS.2005.56)." _Foundations of Computer Science_ (2010): 491–500.
+    Dasgupta, Anirban, John Hopcroft, et al. "{{% resource_link "cadd5dba-dfe2-4121-a631-bfa9934ff631" "On Learning Mixtures of Heavy-tailed Distributions" %}}." _Foundations of Computer Science_ (2010): 491–500.
     
-    Kannan, Ravindran, Hadi Salmasian, et al. "[The Spectral Method for General Mixture Models](http://dx.doi.org/10.1007/11503415_30)." _Society for Industrial and Applied Mathematics Journal on Computing_ 38, no. 3 (2005): 444–57.
+    Kannan, Ravindran, Hadi Salmasian, et al. "{{% resource_link "0f0d3b92-390d-419d-8e96-2d856448846e" "The Spectral Method for General Mixture Models" %}}." _Society for Industrial and Applied Mathematics Journal on Computing_ 38, no. 3 (2005): 444–57.
     
 *   **Graphical Models**
     
-    Bresler, Guy, Elchanan Mossel, et al. "[Reconstruction of Markov Random Fields from Samples: Some Easy Observations and Algorithms](http://arxiv.org/abs/0712.1402)." (2010).
+    Bresler, Guy, Elchanan Mossel, et al. "{{% resource_link "ec29713c-57ed-44c3-9e2b-5153ae574f18" "Reconstruction of Markov Random Fields from Samples: Some Easy Observations and Algorithms" %}}." (2010).
     
-    Bresler, Guy. "[Efficiently Learning Ising Models on Arbitrary Graphs](http://arxiv.org/abs/1411.6156)." (2014).
+    Bresler, Guy. "{{% resource_link "639edaa9-733c-4801-a5c5-902da70443f5" "Efficiently Learning Ising Models on Arbitrary Graphs" %}}." (2014).
     
 
 *   **Stochastic Block Model**
     
-    Mossel, Elchanan, Joe Neeman, et al. "[Stochastic Block Models and Reconstruction](http://arxiv.org/abs/1202.1499)." (2012).
+    Mossel, Elchanan, Joe Neeman, et al. "{{% resource_link "500a63cb-658a-4f26-9a41-5c283b8b33d1" "Stochastic Block Models and Reconstruction" %}}." (2012).
     
-    Hajek, Bruce, Yihong Wu, et al. "[Achieving Exact Cluster Recovery Threshold via Semidefinite Programming](http://arxiv.org/abs/1412.6156)." (2014).
+    Hajek, Bruce, Yihong Wu, et al. "{{% resource_link "23375064-c435-440f-b33e-bd98b04a69f1" "Achieving Exact Cluster Recovery Threshold via Semidefinite Programming" %}}." (2014).
     
 *   **Approximate Gradient Descent**
     
-    Netrapalli, Praneeth, Prateek Jain, et al. "[Phase Retrieval using Alternating Minimization](http://arxiv.org/abs/1306.0160)." (2015).
+    Netrapalli, Praneeth, Prateek Jain, et al. "{{% resource_link "6ac19a16-743f-4bf1-b877-4451fdf4df0f" "Phase Retrieval using Alternating Minimization" %}}." (2015).
     
-    Balakrishnan, Sivaraman, Martin Wainwright, et al. "[Statistical Guarantees for the EM Algorithm: From Population to Sample-based Analysis](http://arxiv.org/abs/1408.2156)." (2014).
+    Balakrishnan, Sivaraman, Martin Wainwright, et al. "{{% resource_link "d89196e3-a442-4b83-9dea-2aa42c12b771" "Statistical Guarantees for the EM Algorithm: From Population to Sample-based Analysis" %}}." (2014).
     
 *   **Planted Sparse Vectors**
     
-    Demanet, Laurent, and Paul Hand. "[Scaling Law for Recovering the Sparsest Element in a Subspace](http://arxiv.org/abs/1310.1654)." (2014).
+    Demanet, Laurent, and Paul Hand. "{{% resource_link "de345920-c88b-446f-ab7d-5970bd505664" "Scaling Law for Recovering the Sparsest Element in a Subspace" %}}." (2014).
     
-    Barak, Boaz, Jonathan Kelner, et al. "[Rounding Sum-of-Squares Relaxations](http://arxiv.org/abs/1312.6652)." (2013).
+    Barak, Boaz, Jonathan Kelner, et al. "{{% resource_link "03540b5f-a7a3-4982-b51f-0eda21a2e29a" "Rounding Sum-of-Squares Relaxations" %}}." (2013).
     
 *   **Runtime / Statistical Tradeoffs**
     
-    Shalev-Shwartz, Shai, and Nathan Srebro. "[SVM Optimization: Inverse Dependence on Training Set Size](http://machinelearning.org/archive/icml2008/papers/266.pdf)." _International Conference on Machine Learning_ (2008): 928–35.
+    Shalev-Shwartz, Shai, and Nathan Srebro. "{{% resource_link "13011438-9c6c-49ba-a9d8-8ea718746230" "SVM Optimization: Inverse Dependence on Training Set Size" %}}." _International Conference on Machine Learning_ (2008): 928–35.
     
-    Daniely, Amit, Nati Linial, et al. "[More Data Speeds up Training Time in Learning Halfspaces over Sparse Vectors](http://arxiv.org/abs/1311.2271)." (2013).
+    Daniely, Amit, Nati Linial, et al. "{{% resource_link "5d0abc13-7f21-48aa-a439-1b5ec2633340" "More Data Speeds up Training Time in Learning Halfspaces over Sparse Vectors" %}}." (2013).
     
 *   **Non Plug-in Estimators**
     
-    Wigderson, Avi, and Amir Yehudayoff. "[Population Recovery and Partial Identifcation](http://dx.doi.org/10.1109/FOCS.2012.14)." _Foundations of Computer Scinece_ (2012): 390–99.
+    Wigderson, Avi, and Amir Yehudayoff. "{{% resource_link "3ead29a1-2fae-42fa-978e-d09e8814f31b" "Population Recovery and Partial Identifcation" %}}." _Foundations of Computer Scinece_ (2012): 390–99.
     
-    Moitra, Ankur, and Maichael Saks. ["A Polynomial Time Algorithm for Lossy Population Recovery." (PDF)](http://arxiv.org/pdf/1302.1515.pdf) (2013).
+    Moitra, Ankur, and Maichael Saks. {{% resource_link "0cae672c-1bc9-47b1-8602-ab54225fc147" "\"A Polynomial Time Algorithm for Lossy Population Recovery.\" (PDF)" %}} (2013).
